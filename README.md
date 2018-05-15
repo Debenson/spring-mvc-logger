@@ -1,4 +1,6 @@
 spring-mvc-logger
+用于记录spring mvc请求和响应
+
 =================
 1. Add to pom.xml
 
